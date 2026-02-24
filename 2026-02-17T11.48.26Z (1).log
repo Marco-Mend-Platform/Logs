@@ -1,0 +1,14 @@
+[2026-02-17 12:48:26] - [CTX=ba2496fe-fb77-45d6-9524-327ef874a30d] - [WARNING] - [agent-version=26.1.2, agent=unified-cli] - Error reading config file: Config File "settings" Not Found in "[D:\\A\\16\\_temp\\mend-workdir\\mend_3545_12f1170f-54f2-53f3-20dd-22fc7dff55f9\\config]"
+[2026-02-17 12:48:26] - [CTX=ba2496fe-fb77-45d6-9524-327ef874a30d] - [DEBUG] - [agent=unified-cli, agent-version=26.1.2] - Config dir doesn't exist
+[2026-02-17 12:48:26] - [CTX=ba2496fe-fb77-45d6-9524-327ef874a30d] - [DEBUG] - [agent=unified-cli, agent-version=26.1.2] - Dedicated SAST token not found, using general
+[2026-02-17 12:48:26] - [CTX=ba2496fe-fb77-45d6-9524-327ef874a30d] - [DEBUG] - [agent=unified-cli, agent-version=26.1.2] - Dedicated SAST email not found, using general
+[2026-02-17 12:48:26] - [CTX=ba2496fe-fb77-45d6-9524-327ef874a30d] - [DEBUG] - [agent=unified-cli, agent-version=26.1.2] - Dedicated SAST environment URL not found, using general
+[2026-02-17 12:48:26] - [CTX=ba2496fe-fb77-45d6-9524-327ef874a30d] - [DEBUG] - [agent=unified-cli, agent-version=26.1.2] - Dedicated SAST organization not found, using general
+[2026-02-17 12:48:26] - [CTX=ba2496fe-fb77-45d6-9524-327ef874a30d] - [DEBUG] - [agent=unified-cli, agent-version=26.1.2, command=ua] - Running Unified Agent
+[2026-02-17 12:48:26] - [CTX=ba2496fe-fb77-45d6-9524-327ef874a30d] - [DEBUG] - [command=ua, agent=unified-cli, agent-version=26.1.2] - Proxy is not configured
+[2026-02-17 12:48:26] - [CTX=ba2496fe-fb77-45d6-9524-327ef874a30d] - [DEBUG] - [agent=unified-cli, agent-version=26.1.2, command=ua] - Proxy is not configured
+[2026-02-17 12:48:29] - [CTX=ba2496fe-fb77-45d6-9524-327ef874a30d] - [DEBUG] - [command=ua, agent=unified-cli, agent-version=26.1.2] - Env vars are set
+[2026-02-17 12:48:29] - [CTX=ba2496fe-fb77-45d6-9524-327ef874a30d] - [DEBUG] - [agent-version=26.1.2, command=ua, agent=unified-cli] - Env vars are valid
+[2026-02-17 12:48:29] - [CTX=ba2496fe-fb77-45d6-9524-327ef874a30d] - [DEBUG] - [command=ua, agent=unified-cli, agent-version=26.1.2] - Proxy is not configured
+[2026-02-17 12:48:29] - [CTX=ba2496fe-fb77-45d6-9524-327ef874a30d] - [DEBUG] - [command=ua, agent=unified-cli, agent-version=26.1.2] - Executable not found: CreateFile D:\A\16\_temp\mend\mend-windows-amd64\bin\unified-agent\unified-agent.jar: The system cannot find the file specified.
+[2026-02-17 12:48:29] - [CTX=ba2496fe-fb77-45d6-9524-327ef874a30d] - [ERROR] - [command=ua, agent=unified-cli, agent-version=26.1.2] - UA binary not found: CreateFile D:\A\16\_temp\mend\mend-windows-amd64\bin\unified-agent\unified-agent.jar: The system cannot find the file specified., please make sure to properly configure MEND_INSTALL_DIR
